@@ -1,0 +1,12 @@
+* {
+	background-color: #ff4800;
+}
+
+body {
+	background-image: url(peaches.jpg);
+}
+
+.maintxt {
+	text-align: center;
+	font-family: sans-serif;
+}
